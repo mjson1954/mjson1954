@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98)](https://solved.ac/tina_98/)<br />
+🔭 I’m currently working on ...
+
 <!--
 **mjson1954/mjson1954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

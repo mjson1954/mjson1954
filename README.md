@@ -1,7 +1,9 @@
-<div align="center">
+
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98)](https://solved.ac/tina_98/)</br>
-</div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjson1954&show_icons=true&theme=highcontrast)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjson1954&repo=github-readme-stats" />
+</a>
 
 
 

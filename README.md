@@ -1,5 +1,4 @@
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98">
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98)](https://solved.ac/tina_98/)</br>
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98"><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mjson1954&repo=github-readme-stats" />

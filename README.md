@@ -1,6 +1,5 @@
 <div align='center'>
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98"><br/><br/>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=mjson1954&show_icons=true&theme=gruvbox" height="165">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tina_98"><br/>
 </div>
 
 
